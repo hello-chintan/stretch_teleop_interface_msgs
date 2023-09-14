@@ -1,0 +1,2 @@
+string state
+string alert_type
